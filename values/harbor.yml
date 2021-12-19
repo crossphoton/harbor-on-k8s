@@ -5,7 +5,7 @@ expose:
   ingress:
     hosts:
       core: harbor.crossphoton.tech
-      notary: notary.crossphoton.tech
+      notary: notary.harbor.crossphoton.tech
 # If Harbor is deployed behind the proxy, set it as the URL of proxy
 externalURL: http://harbor.crossphoton.tech
 
